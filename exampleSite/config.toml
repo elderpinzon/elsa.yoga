@@ -9,10 +9,6 @@ title = "Yoga con Elsita"
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
