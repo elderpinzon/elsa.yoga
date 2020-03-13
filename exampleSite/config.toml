@@ -34,7 +34,7 @@ home = "Home"
 logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/banner-central.svg"
+image = "images/banner-central.jpg"
 title = "Hola, soy Elsita <br> Ven conmigo y mejora tu salud"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
