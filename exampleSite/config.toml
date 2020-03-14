@@ -33,10 +33,10 @@ bgImage = "images/banner-bg.jpg"
 image = "images/banner-central.jpg"
 title = "Hola, soy Elsita. <br> Ven a hacer yoga conmigo"
 [params.cta]
-description = "Seguro te ayudará!"
+description = "Escríbeme a mi email yogaconelsita@gmail.com para cualquier inquietud!"
 enable = true
 image = "images/ma.png"
-title = "Hagámos Yoga con Mindfulness"
+title = "Hola, Soy Elsita!"
 [params.cta.button]
 enable = true
 label = "WhatsApp +57-301-209-7010"
