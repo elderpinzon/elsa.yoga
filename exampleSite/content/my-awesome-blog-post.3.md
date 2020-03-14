@@ -1,5 +1,5 @@
 +++
-author = "Elsa Guerra"
+author = "Elsita"
 categories = ["Yoga"]
 date = 2020-03-13T04:00:00Z
 description = "Bienvenidos"
@@ -8,7 +8,6 @@ title = "Bienvenidos a esta aventura"
 type = "post"
 
 +++
-
 **Yoga:** Es genial
 
 **Mindfulness:** También.
