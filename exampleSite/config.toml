@@ -31,7 +31,7 @@ logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner-bg.jpg"
 image = "images/banner-central.jpg"
-title = "Hola, soy Elsita <br> Ven conmigo"
+title = "Hola, soy Elsita. <br> Ven conmigo"
 [params.cta]
 description = "Seguro te ayudará!"
 enable = true
