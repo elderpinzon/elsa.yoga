@@ -35,7 +35,7 @@ title = "Hola, soy Elsita. <br> Ven a hacer yoga conmigo"
 [params.cta]
 description = "Seguro te ayudará!"
 enable = true
-image = "images/hugo-muscot.svg"
+image = "images/ma.png"
 title = "Hagámos Yoga con Mindfulness"
 [params.cta.button]
 enable = true
