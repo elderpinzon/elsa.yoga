@@ -1,7 +1,7 @@
 ---
 title: Contáctame
 description: Contacto
-image: images/contact.svg
+image: images/yoga-con-elsita.png
 
 ---
-Yoga con Elsita, contáctame
+Estoy lista para ayudarte a mejorar tu salud!
