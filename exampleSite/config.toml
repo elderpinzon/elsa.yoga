@@ -29,8 +29,8 @@ google_tag_manager = ""
 home = "Inicio"
 logo = "images/logo.svg"
 [params.banner]
-bgImage = "images/mandala.jpg"
-image = "images/banner-bg.jpg"
+bgImage = "images/banner-bg.jpg"
+image = "images/banner-central.jpg"
 title = "Hola, soy Elsita <br> Ven conmigo"
 [params.cta]
 description = "Seguro te ayudará!"
