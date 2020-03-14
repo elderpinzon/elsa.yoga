@@ -39,8 +39,8 @@ image = "images/ma.png"
 title = "Hagámos Yoga con Mindfulness"
 [params.cta.button]
 enable = true
-label = "WhatsApp +57-301-209710"
-link = "https://gethugothemes.com/shop/"
+label = "WhatsApp +57-301-209-7010"
+link = "https://wa.me/573012097010"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
