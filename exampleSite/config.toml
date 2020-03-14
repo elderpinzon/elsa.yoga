@@ -30,7 +30,7 @@ home = "Inicio"
 logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/mandala.jpg"
-image = "images/banner-central.jpg"
+image = "images/banner-bg.jpg"
 title = "Hola, soy Elsita <br> Ven conmigo"
 [params.cta]
 description = "Seguro te ayudará!"
