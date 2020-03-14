@@ -29,7 +29,7 @@ google_tag_manager = ""
 home = "Inicio"
 logo = "images/logo.svg"
 [params.banner]
-bgImage = "images/banner/banner-bg.svg"
+bgImage = "images/mandala.jpg"
 image = "images/banner-central.jpg"
 title = "Hola, soy Elsita <br> Ven conmigo y mejora tu salud"
 [params.cta]
