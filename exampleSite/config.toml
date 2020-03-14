@@ -31,7 +31,7 @@ logo = "images/logo-test.png"
 [params.banner]
 bgImage = "images/banner-bg.jpg"
 image = "images/banner-central.jpg"
-title = "Ven aprende conmigo a mejorar tu salud haciendo Yoga!"
+title = "Aprende conmigo a mejorar tu salud haciendo Yoga!"
 [params.cta]
 description = "Escríbeme a mi email yogaconelsita@gmail.com para cualquier inquietud!"
 enable = true
