@@ -6,6 +6,10 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Yoga con Elsita"
 [[menu.footer]]
+URL = "tools"
+name = "Servicios"
+weight = "1"
+[[menu.footer]]
 URL = "contact"
 name = "Contacto"
 weight = 1
