@@ -27,7 +27,7 @@ logo = "images/logo-yoga-2.png"
 [params.banner]
 bgImage = "images/banner-bg.jpg"
 image = "images/banner-central.jpg"
-title = "Aprende conmigo a mejorar tu salud haciendo Yoga!"
+title = "Restaurate practicando yoga consciente conmigo"
 [params.cta]
 description = "Escríbeme a mi email yogaconelsita@gmail.com para cualquier inquietud!"
 enable = true
