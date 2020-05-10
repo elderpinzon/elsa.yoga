@@ -23,7 +23,7 @@ description = "Yoga con Elsita"
 google_analitycs_id = ""
 google_tag_manager = ""
 home = "Inicio"
-logo = "images/logo-yoga.png"
+logo = "images/logo-yoga-2.png"
 [params.banner]
 bgImage = "images/banner-bg.jpg"
 image = "images/banner-central.jpg"
