@@ -29,10 +29,10 @@ bgImage = "images/banner-bg.jpg"
 image = "images/banner-central.jpg"
 title = "Restaurate practicando yoga consciente conmigo"
 [params.cta]
-description = "Escríbeme a mi email yogaconelsita@gmail.com para cualquier inquietud!"
+description = "Escríbeme a mi email yogaconelsa@gmail.com para cualquier inquietud!"
 enable = true
 image = "images/ma.png"
-title = "Hola, Soy Elsita!"
+title = "Conectémonos, vibremos juntos"
 [params.cta.button]
 enable = true
 label = "WhatsApp +57-301-209-7010"
