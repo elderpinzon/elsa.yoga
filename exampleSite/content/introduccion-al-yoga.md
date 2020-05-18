@@ -1,7 +1,7 @@
 +++
 author = "Elsa"
 categories = ["Yoga"]
-date = 2020-05-19T04:00:00Z
+date = 2020-05-17T04:00:00Z
 description = "Siete"
 image = "/images/blog-post-yoga-2.png"
 title = "Introducción al Yoga"
