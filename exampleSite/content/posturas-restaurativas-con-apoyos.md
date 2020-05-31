@@ -3,7 +3,6 @@ author = "Elsa"
 categories = []
 date = 2020-05-29T04:00:00Z
 description = "Yoga Resturativo"
-draft = true
 image = "/images/whatsapp-image-2020-05-18-at-4-52-43-pm.jpeg"
 title = "Posturas Restaurativas con Apoyos"
 type = "post"
