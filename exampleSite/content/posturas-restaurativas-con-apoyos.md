@@ -57,3 +57,12 @@ Beneficios:
 5. Ideal para relajaciones finales de personas principiantes o con problemas de rodillas
 6. Aliviar cólicos intensos
 7. Ideal para cuando hay cansancios extremos
+
+**Postura inclinada hacia adelante con soporte**
+
+![](/images/whatsapp-image-2020-05-18-at-4-52-44-pm.jpeg)
+
+1. Ideal para estirar la columna
+2. Para aliviar dolores de hernias discales y en general para enfermedades de la columna, especialmente del coxis
+3. Ayuda al proceso de digestión y eliminación
+4. Ideal para dolores de extremidades superiores
