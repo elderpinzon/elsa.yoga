@@ -1,8 +1,8 @@
 ---
 tools:
-- title: Yoga
+- title: Yoga para Principiantes
   tool:
-  - name: Yoga para Principiantes
+  - name: Introducción al Yoga
     image: "/images/yoga-principiantes.jpg"
     link: https://atom.io/
   - name: Yoga Restaurativo
