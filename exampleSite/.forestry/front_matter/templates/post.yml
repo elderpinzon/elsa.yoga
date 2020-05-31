@@ -26,3 +26,4 @@ fields:
   default: post
 pages:
 - exampleSite/content/introduccion-al-yoga.md
+- exampleSite/content/posturas-restaurativas-con-apoyos.md
