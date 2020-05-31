@@ -5,7 +5,7 @@ tools:
   - name: Introducción al Yoga
     image: "/images/yoga-principiantes.jpg"
     link: https://atom.io/
-- title: Yoga Resturativo
+- title: Yoga Restaurativo
   tool:
   - name: Posturas Resturativas con Apoyos
 - title: Mindfulness
