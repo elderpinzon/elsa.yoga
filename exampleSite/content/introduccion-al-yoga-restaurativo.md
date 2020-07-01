@@ -3,7 +3,6 @@ author = "Elsa"
 categories = []
 date = 2020-06-30T04:00:00Z
 description = ""
-draft = true
 image = "/images/whatsapp-image-2020-05-18-at-4-52-42-pm.jpeg"
 title = "Introducción al Yoga Restaurativo"
 type = "post"
