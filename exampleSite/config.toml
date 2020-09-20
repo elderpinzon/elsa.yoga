@@ -27,7 +27,7 @@ logo = "images/logo-yoga-2.png"
 [params.banner]
 bgImage = "images/banner-bg.jpg"
 image = "images/banner-central.jpg"
-title = "Restaurate practicando yoga consciente conmigo"
+title = "Restáurate practicando Yoga consciente conmigo"
 [params.cta]
 description = "Escríbeme a mi email yogaconelsa@gmail.com para cualquier inquietud!"
 enable = true
