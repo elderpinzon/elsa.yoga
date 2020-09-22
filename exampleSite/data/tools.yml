@@ -2,6 +2,9 @@
 tools:
 - title: Yoga para Principiantes
   tool:
+  - name: Saludo al sol
+    image: "/images/david-monje-77aw8rm9kgg-unsplash.jpg"
+    link: "/beneficios-del-saludo-al-sol/"
   - name: Beneficios de practicar Yoga
     image: "/images/wesley-tingey-rts8fpb3rci-unsplash.jpg"
     link: "/cuales-son-los-beneficios-de-practicar-yoga/"
