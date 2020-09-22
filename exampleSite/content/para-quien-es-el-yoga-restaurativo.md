@@ -3,7 +3,6 @@ author = "Elsa"
 categories = []
 date = 2020-09-01T04:00:00Z
 description = ""
-draft = true
 image = "/images/wesley-tingey-57wo9f-r2-a-unsplash.jpg"
 title = "🤔 Para quién es el Yoga Restaurativo? 🤔"
 type = "post"
