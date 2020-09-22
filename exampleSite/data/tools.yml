@@ -2,17 +2,20 @@
 tools:
 - title: Yoga para Principiantes
   tool:
-  - name: Saludo al sol
-    image: "/images/david-monje-77aw8rm9kgg-unsplash.jpg"
-    link: "/beneficios-del-saludo-al-sol/"
-  - name: Beneficios de practicar Yoga
-    image: "/images/wesley-tingey-rts8fpb3rci-unsplash-cut.jpg"
-    link: "/cuales-son-los-beneficios-de-practicar-yoga/"
   - name: Introducción al Yoga
     image: "/images/blog-post-yoga-2.png"
     link: "/introduccion-al-yoga/"
+  - name: Beneficios de practicar Yoga
+    image: "/images/wesley-tingey-rts8fpb3rci-unsplash-cut.jpg"
+    link: "/cuales-son-los-beneficios-de-practicar-yoga/"
+  - name: Saludo al sol
+    image: "/images/david-monje-77aw8rm9kgg-unsplash.jpg"
+    link: "/beneficios-del-saludo-al-sol/"
 - title: Yoga Restaurativo
   tool:
+  - name: Para quién es?
+    image: "/images/wesley-tingey-57wo9f-r2-a-unsplash.jpg"
+    link: "/para-quien-es-el-yoga-restaurativo/"
   - name: Introducción al Yoga Restaurativo
     image: "/images/restaurativo-post.jpeg"
     link: "/introduccion-al-yoga-restaurativo/"
