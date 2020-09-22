@@ -4,7 +4,7 @@ tools:
   tool:
   - name: Beneficios de practicar Yoga
     image: "/images/wesley-tingey-rts8fpb3rci-unsplash.jpg"
-    link: https://yoga-con-elsita.netlify.app/cuales-son-los-beneficios-de-practicar-yoga/
+    link: "/cuales-son-los-beneficios-de-practicar-yoga/"
   - name: Introducción al Yoga
     image: "/images/blog-post-yoga-2.png"
     link: "/introduccion-al-yoga/"
