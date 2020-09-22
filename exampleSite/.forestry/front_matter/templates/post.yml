@@ -25,6 +25,7 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/beneficios-de-yoga-para-ninos.md
 - exampleSite/content/cuales-son-los-beneficios-de-practicar-yoga.md
 - exampleSite/content/introduccion-al-yoga-restaurativo.md
 - exampleSite/content/introduccion-al-yoga.md
