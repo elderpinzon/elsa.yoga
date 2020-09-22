@@ -7,7 +7,7 @@ tools:
     link: https://yoga-con-elsita.netlify.app/cuales-son-los-beneficios-de-practicar-yoga/
   - name: Introducción al Yoga
     image: "/images/blog-post-yoga-2.png"
-    link: https://yoga-con-elsita.netlify.app/introduccion-al-yoga/
+    link: "/introduccion-al-yoga/"
 - title: Yoga Restaurativo
   tool:
   - name: Introducción al Yoga Restaurativo
