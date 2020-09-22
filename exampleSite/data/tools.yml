@@ -1,5 +1,10 @@
 ---
 tools:
+- title: Yoga para niños
+  tool:
+  - name: Beneficios
+    image: "/images/guille-pozzi-y1wvavuxzte-unsplash-cut.jpg"
+    link: "/beneficios-de-yoga-para-ninos/"
 - title: Yoga para Principiantes
   tool:
   - name: Saludo al sol
