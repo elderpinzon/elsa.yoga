@@ -3,7 +3,6 @@ author = "Elsa"
 categories = []
 date = 2020-09-15T04:00:00Z
 description = "Yoga niños"
-draft = true
 image = "/images/guille-pozzi-y1wvavuxzte-unsplash.jpg"
 title = "👦 Beneficios de Yoga para niños 👧"
 type = "post"
