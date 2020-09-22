@@ -4,7 +4,7 @@ categories = ["Bienvenida", "Yoga"]
 date = 2020-05-18T21:39:44Z
 description = "Bienvenidos"
 image = "/images/blog-post-yoga.png"
-title = "😌Bienvenidos a Restaurar Nuestro Cuerpo con Elsa 😌"
+title = "Bienvenidos a Restaurar Nuestro Cuerpo con Elsa 😌"
 type = "post"
 
 +++
