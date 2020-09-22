@@ -3,7 +3,6 @@ author = "Elsa"
 categories = []
 date = 2020-09-17T04:00:00Z
 description = "Yoga sol"
-draft = true
 image = "/images/david-monje-77aw8rm9kgg-unsplash.jpg"
 title = "Beneficios del saludo al sol ☀️☀️☀️"
 type = "post"
