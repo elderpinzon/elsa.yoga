@@ -1,7 +1,7 @@
 +++
 author = "Elsa"
 categories = []
-date = 2020-06-29T04:00:00Z
+date = 2020-05-18T04:00:00Z
 description = ""
 image = "/images/restaurativo-post.jpeg"
 title = "Qué es Yoga Restaurativo? 🙋"

@@ -1,7 +1,7 @@
 +++
 author = "Elsa"
 categories = []
-date = 2020-09-04T04:00:00Z
+date = 2020-06-04T04:00:00Z
 description = "Yoga Beneficios"
 image = "/images/wesley-tingey-rts8fpb3rci-unsplash.jpg"
 title = "Cuáles son los beneficios de practicar Yoga?"
