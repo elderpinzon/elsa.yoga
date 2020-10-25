@@ -3,7 +3,6 @@ author = "Elsa"
 categories = []
 date = 2020-05-15T04:00:00Z
 description = ""
-draft = true
 image = "/images/ma-recortada.png"
 title = "🧘🏻‍♀️ Clases de yoga que practico? 🧘🏻‍♀️"
 type = "post"
