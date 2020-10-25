@@ -1,7 +1,7 @@
 +++
 author = "Elsa"
 categories = ["Bienvenida", "Yoga"]
-date = 2020-05-18T21:39:44Z
+date = 2020-05-13T21:39:44Z
 description = "Bienvenidos"
 image = "/images/blog-post-yoga.png"
 title = "Bienvenidos a Restaurar Nuestro Cuerpo con Elsa 😌"
