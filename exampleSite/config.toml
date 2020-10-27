@@ -26,7 +26,7 @@ home = "Inicio"
 logo = "images/logo-yoga-2.png"
 [params.banner]
 bgImage = "images/banner-bg.jpg"
-image = "images/banner-central.jpg"
+image = "images/recortada.png"
 title = "Restáurate practicando Yoga consciente conmigo"
 [params.cta]
 description = "Escríbeme a mi email yogaconelsa@gmail.com para cualquier inquietud!"
