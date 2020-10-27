@@ -33,6 +33,8 @@ description = "Escríbeme a mi email yogaconelsa@gmail.com para cualquier inquie
 enable = true
 image = "images/ma.png"
 title = "Conectémonos, vibremos juntos"
+text1 = "Clases presenciales en Bogotá"
+text2 = "y online en Zoom"
 [params.cta.button]
 enable = true
 label = "WhatsApp +57-301-209-7010"
