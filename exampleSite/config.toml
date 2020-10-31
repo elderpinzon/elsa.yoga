@@ -18,15 +18,15 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Elsa Guerra"
 contact_form_action = "#"
-copyright = "&copy; 2020 [Yoga Restaurador con Elsa™](https://elsa.yoga) Todos los Derechos Reservados"
+copyright = "&copy; 2020 [Ananta Yoga™](https://elsa.yoga) Todos los Derechos Reservados"
 description = "Yoga Restaurador con Elsa"
 google_analitycs_id = ""
 google_tag_manager = ""
 home = "Inicio"
-logo = "images/logo-yoga-2.png"
+logo = "images/logo-ananta.svg"
 [params.banner]
 bgImage = "images/banner-bg.jpg"
-image = "images/recortada.png"
+image = "images/banner-ma-caricaturas.svg"
 title = "Restáurate practicando Yoga consciente conmigo"
 [params.cta]
 description = "Escríbeme a mi email yogaconelsa@gmail.com para cualquier inquietud!"
