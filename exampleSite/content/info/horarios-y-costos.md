@@ -9,7 +9,8 @@ URL = "costos"
 weight = 2
 
 +++
-My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad de vida.
+Mi mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad de vida.
+
 
 ### Horario
 
@@ -19,17 +20,19 @@ My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad
 | Martes |  | 6:30 PM |  |
 | Miércoles |  |  | 7:00 PM |
 | Jueves |  | 6:30 PM |  |
-| Viernes |  |  |  |
+| Viernes |  |  | 5:30 PM |
+| Sábado |  |  | 5:30 PM |
+
 
 ### Costos
 
 | Virtual (Horario prestablecido) | Presencial a domicilio * |
 | --- | --- |
-| Primera clase | Gratis |
-| Una clase | Gratis |
-| Cuatro	clases | Gratis |
-| Ocho  clases | Gratis |
-| Todas las  clases del mes | Gratis |
+| Primera clase | $25.000 |
+| Una clase | $35.000 |
+| Cuatro clases | $130.000 |
+| Ocho  clases | $250.000 |
+| Todas las  clases del mes | $300.000 |
 
 Para obtener los datos del enlace y la contraseña para el ingreso a las clases enviar el comprobante de pago a: 3012097010 (WhatsApp) o al email elsai9@hotmail.com
 
