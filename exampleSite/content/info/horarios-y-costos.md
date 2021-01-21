@@ -11,4 +11,10 @@ name = "Costos"
 weight = 2
 
 +++
-My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad de vida
+My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad de vida.
+
+    |   | Yoga Restaurativo |   |   |   |
+    |---|---|---|---|---|
+    |  Lunes |   |   |   |   |
+    |  Martes |   |   |   |   |
+    |  Miercoles |   |   |   |   |
