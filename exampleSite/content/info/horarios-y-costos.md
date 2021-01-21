@@ -32,7 +32,9 @@ Mi mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad
 | Una clase | $35.000 |
 | Cuatro clases | $130.000 |
 | Ocho  clases | $250.000 |
-| Todas las  clases del mes | $300.000 |
+| Todas las  clases del mes | $380.000 |
+
+* Hasta 6kms. Horario a acordar.
 
 Para obtener los datos del enlace y la contraseña para el ingreso a las clases enviar el comprobante de pago a: 3012097010 (WhatsApp) o al email elsai9@hotmail.com
 
