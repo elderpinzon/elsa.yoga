@@ -18,3 +18,8 @@ My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad
     |  Lunes |   |   |   |   |
     |  Martes |   |   |   |   |
     |  Miercoles |   |   |   |   |
+
+Name    | Age
+--------|------
+Bob     | 27
+Alice   | 23
