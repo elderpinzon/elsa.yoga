@@ -20,8 +20,8 @@ sections:
   templates:
   - tools
 - type: directory
-  path: exampleSite/content/author
-  label: Author
+  path: exampleSite/content/info
+  label: Info
   create: documents
   match: "**/*"
   templates:
