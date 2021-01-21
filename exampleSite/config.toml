@@ -13,10 +13,6 @@ weight = 1
 URL = "tools"
 name = "Servicios"
 weight = 1
-[[menu.main]]
-URL = "costos"
-name = "Costos"
-weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
