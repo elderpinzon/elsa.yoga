@@ -15,23 +15,23 @@ My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad
 
 ### Horario
 
-| Yoga para principiantes | Yoga Restaurativo | Meditación y Respiración | Hatha Yoga Intermedio
----- | ---- | ---- | ---- | ---- |
-Lunes | 6:30 PM | | | |
-Martes | | 6:30 PM | | |
-Miércoles | | | 7:00 PM | |
-Jueves | | 6:30 PM | | |
-Viernes | | | | 5:30 PM |
+| Yoga para principiantes | Yoga Restaurativo | Meditación y Respiración | Hatha Yoga Intermedio |
+| --- | --- | --- | --- |
+| Lunes | 6:30 PM |  |  |
+| Martes |  | 6:30 PM |  |
+| Miércoles |  |  | 7:00 PM |
+| Jueves |  | 6:30 PM |  |
+| Viernes |  |  |  |
 
 ### Costos
 
 | Virtual (Horario prestablecido) | Presencial a domicilio * |
----- | ---- | ---- |
-Primera clase | Gratis | $25.000
-Una clase | Gratis | $25.000
-Cuatro	clases | Gratis | $25.000
-Ocho  clases | Gratis | $25.000
-Todas las  clases del mes | Gratis | $25.000
+| --- | --- |
+| Primera clase | Gratis |
+| Una clase | Gratis |
+| Cuatro	clases | Gratis |
+| Ocho  clases | Gratis |
+| Todas las  clases del mes | Gratis |
 
 Para obtener los datos del enlace y la contraseña para el ingreso a las clases enviar el comprobante de pago a: 3012097010 (WhatsApp) o al email elsai9@hotmail.com
 
