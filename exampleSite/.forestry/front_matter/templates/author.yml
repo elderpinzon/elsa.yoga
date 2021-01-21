@@ -12,4 +12,4 @@ fields:
   name: image
   label: image
 pages:
-- exampleSite/content/author/horarios-y-costos.md
+- exampleSite/content/info/horarios-y-costos.md
