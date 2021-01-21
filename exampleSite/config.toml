@@ -8,11 +8,11 @@ title = "Ananta Yoga"
 [[menu.footer]]
 URL = "tools"
 name = "Servicios"
-weight = "1"
+weight = 1
 [[menu.main]]
 URL = "tools"
 name = "Servicios"
-weight = 2
+weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
@@ -32,9 +32,9 @@ title = "Restáurate practicando Yoga consciente conmigo"
 description = "Escríbeme a mi email ananta.yoga.elsa@gmail.com para cualquier inquietud!"
 enable = true
 image = "images/ma.png"
-title = "Conectémonos, vibremos juntos"
 text1 = "Clases presenciales en Bogotá"
 text2 = "y online en Zoom"
+title = "Conectémonos, vibremos juntos"
 [params.cta.button]
 enable = true
 label = "WhatsApp +57-301-209-7010"
