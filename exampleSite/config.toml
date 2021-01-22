@@ -6,10 +6,6 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Ananta Yoga"
 [[menu.footer]]
-URL = ""
-name = ""
-weight = ""
-[[menu.footer]]
 URL = "tools"
 name = "Servicios"
 weight = 1
