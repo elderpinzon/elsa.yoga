@@ -4,13 +4,9 @@ image = ""
 title = "Horarios y Costos"
 [menu.footer]
 weight = 2
-[menu.main]
-URL = "costos"
-weight = 2
 
 +++
-Mi mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad de vida.
-
+My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad de vida.
 
 ### Horario
 
@@ -20,21 +16,17 @@ Mi mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad
 | Martes |  | 6:30 PM |  |
 | Miércoles |  |  | 7:00 PM |
 | Jueves |  | 6:30 PM |  |
-| Viernes |  |  | 5:30 PM |
-| Sábado |  |  | 5:30 PM |
-
+| Viernes |  |  |  |
 
 ### Costos
 
 | Virtual (Horario prestablecido) | Presencial a domicilio * |
 | --- | --- |
-| Primera clase | $25.000 |
-| Una clase | $35.000 |
-| Cuatro clases | $130.000 |
-| Ocho  clases | $250.000 |
-| Todas las  clases del mes | $380.000 |
-
-* Hasta 6kms. Horario a acordar.
+| Primera clase | Gratis |
+| Una clase | Gratis |
+| Cuatro	clases | Gratis |
+| Ocho  clases | Gratis |
+| Todas las  clases del mes | Gratis |
 
 Para obtener los datos del enlace y la contraseña para el ingreso a las clases enviar el comprobante de pago a: 3012097010 (WhatsApp) o al email elsai9@hotmail.com
 

@@ -10,6 +10,10 @@ URL = "tools"
 name = "Servicios"
 weight = 1
 [[menu.main]]
+URL = "costos"
+name = "Horarios y Costos"
+weight = 2
+[[menu.main]]
 URL = "tools"
 name = "Servicios"
 weight = 1
