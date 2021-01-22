@@ -16,7 +16,8 @@ My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad
 | Martes |  | 6:30 PM |  |
 | Miércoles |  |  | 7:00 PM |
 | Jueves |  | 6:30 PM |  |
-| Viernes |  |  |  |
+| Viernes |  |  | 6:30 |
+| Sábado |  |  | 5:30 |
 
 ### Costos
 
@@ -28,7 +29,7 @@ My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad
 | Ocho  clases | $250.000 |
 | Todas las  clases del mes | $380.000 |
 
-/* Horario a acordar. Hasta 6 Kms.
+* Horario a acordar. Hasta 6 Kms.
 
 Para obtener los datos del enlace y la contraseña para el ingreso a las clases enviar el comprobante de pago a: 3012097010 (WhatsApp) o al email elsai9@hotmail.com
 
