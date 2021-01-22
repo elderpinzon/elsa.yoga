@@ -5,13 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
-  default: '2021-01-22T02:03:17+00:00'
-  config:
-    required: false
-  hidden: true
 - type: file
   name: image
   label: image
