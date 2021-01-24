@@ -27,7 +27,7 @@ My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad
 | --- | --- | --- |
 | Primera clase | Gratis | $25.000 |
 | Una clase | $15.000 | $35.000 |
-| Cuatro clases | $50.000 $130.000 |
+| Cuatro clases | $50.000 | $130.000 |
 | Ocho  clases | $90.000 | $250.000 |
 | Todas las  clases del mes | $200.00 | $380.000 |
 
