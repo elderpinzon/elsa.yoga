@@ -12,12 +12,12 @@ My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad
 
 ### Horario
 
-| Yoga para principiantes | Yoga Restaurativo | Meditación y Respiración | Hatha Yoga Intermedio |
-| --- | --- | --- | --- |
-| Lunes | 6:30 PM |  |  |
-| Martes |  | 6:30 PM |  |
-| Miércoles |  |  | 7:00 PM |
-| Jueves |  | 6:30 PM |  |
+| | Yoga para principiantes | Yoga Restaurativo | Meditación y Respiración | Hatha Yoga Intermedio |
+| --- | --- | --- | --- | --- |
+| Lunes | 6:30 PM |  |  |  |
+| Martes |  | 6:30 PM |  |  |
+| Miércoles |  |  | 7:00 PM |  |
+| Jueves |  | 6:30 PM |  |  |
 | Viernes |  |  | 6:30 PM |
 | Sábado |  |  | 5:30 PM |
 
