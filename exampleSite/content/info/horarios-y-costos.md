@@ -23,7 +23,7 @@ My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad
 
 ### Costos
 
-| | Virtual (Horario prestablecido) | Presencial a domicilio * |
+| | Virtual (Horario prestablecido) | Presencial a domicilio (*) |
 | --- | --- | --- |
 | Primera clase | Gratis | $25.000 |
 | Una clase | $15.000 | $35.000 |
@@ -31,7 +31,7 @@ My mantra: siempre lista para servir, aprender, y enseñar consciencia y calidad
 | Ocho clases | $90.000 | $250.000 |
 | Todas las  clases del mes | $200.00 | $380.000 |
 
-* Horario a acordar. Desplazamientos de hasta 6 Kms.
+(*) Horario a acordar. Desplazamientos de hasta 6 Kms.
 
 Para obtener los datos del enlace y la contraseña para el ingreso a las clases enviar el comprobante de pago a: 3012097010 (WhatsApp) o al email elsai9@hotmail.com
 
